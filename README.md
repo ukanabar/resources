@@ -24,9 +24,15 @@ https://developer.okta.com/blog/2018/02/13/secure-spring-microservices-with-oaut
 Kafka:
 
 https://github.com/davidkiss/spring-cloud-streams-kafka-demo
+
 https://www.confluent.io/blog/spring-for-apache-kafka-deep-dive-part-1-error-handling-message-conversion-transaction-support
+
 https://www.baeldung.com/spring-cloud-stream
+
 https://www.baeldung.com/spring-kafka
+
+https://medium.com/@contactsunny/simple-apache-kafka-producer-and-consumer-using-spring-boot-41be672f4e2b
+
 
 
 
