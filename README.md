@@ -63,6 +63,10 @@ https://medium.com/javarevisited/kubernetes-step-by-step-with-spring-boot-docker
 
 https://itnext.io/migrating-a-spring-boot-service-to-kubernetes-in-5-steps-7c1702da81b6
 
+Scale up/Down Kuberernets Cluster GCP:
+
+https://stackoverflow.com/questions/38323134/how-to-stop-gcloud-container-engine-clusters
+
 
 
 
